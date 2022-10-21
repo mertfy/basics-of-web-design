@@ -1,2 +1,2 @@
 # basics-of-web-design
-ödev
+ödevler
